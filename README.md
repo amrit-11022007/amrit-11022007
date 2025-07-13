@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Profile README for Amrit Raj Yadav -->
 
-<!--
-**amrit-11022007/amrit-11022007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Amrit Raj Yadav 👋</h1>
+<p align="center">
+  <b>A passionate developer from New Delhi, India 🇮🇳<br>
+  Soon-to-be engineering student 🚀</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 18 year old tech enthusiast joining engineering college soon.
+- 💡 I love building cool stuff with code!
+
+---
+
+## 🛠️ My Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+---
+
+## 📂 My Projects
+
+Here are some of my repositories:
+
+- [Repo 1](https://github.com/amrit-11022007?tab=repositories) <!-- Replace with actual repo link & description -->
+- [Repo 2](https://github.com/amrit-11022007?tab=repositories) <!-- Replace with actual repo link & description -->
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/amrit-11022007">
+    <img src="https://img.shields.io/badge/GitHub-amrit--11022007-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amrit-11022007&style=for-the-badge" alt="Profile views"/>
+</p>
