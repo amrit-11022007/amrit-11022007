@@ -30,8 +30,8 @@
 
 Here are some of my repositories:
 
-- [Repo 1]([https://github.com/amrit-11022007/To-Do-List])
-- [Repo 2]([(https://github.com/amrit-11022007/To-Do-List)])
+- [Repo 1](https://github.com/amrit-11022007/To-Do-List)
+- [Repo 2](https://github.com/amrit-11022007/To-Do-List)
 
 ---
 
