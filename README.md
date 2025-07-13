@@ -1,4 +1,3 @@
-<!-- Profile README for Amrit Raj Yadav -->
 
 <h1 align="center">Hi, I'm Amrit Raj Yadav 👋</h1>
 <p align="center">
@@ -31,8 +30,8 @@
 
 Here are some of my repositories:
 
-- [Repo 1](https://github.com/amrit-11022007?tab=repositories) <!-- Replace with actual repo link & description -->
-- [Repo 2](https://github.com/amrit-11022007?tab=repositories) <!-- Replace with actual repo link & description -->
+- [Repo 1]([https://github.com/amrit-11022007?tab=repositories](https://github.com/amrit-11022007/Game-The-Forgotten-Crypt))
+- [Repo 2]([https://github.com/amrit-11022007?tab=repositories](https://github.com/amrit-11022007/To-Do-List))
 
 ---
 
