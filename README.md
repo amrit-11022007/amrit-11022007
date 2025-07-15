@@ -45,6 +45,3 @@ Here are some of my repositories:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrit-11022007&style=for-the-badge" alt="Profile views"/>
-</p>
