@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/React%20JS-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt =React.js"/>
+<img src = https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" alt = "C"/>
+<img src = "https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt ="VS Code"/>
 </p>
 
 ---
