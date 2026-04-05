@@ -11,7 +11,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Student at **MAIT**
 - 💻 Full stack developer focused on building real-world applications  
 - 🧠 Strong interest in problem-solving, logic, and system design  
 - ⚡ Prefer minimal, efficient, and structured setups  
@@ -80,16 +79,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amrit-11022007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amrit-11022007&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit-11022007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -103,18 +92,8 @@
 
 ---
 
-## 🎮 Fun Zone
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Anime-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Motorsport-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Esports-9146FF?style=for-the-badge"/>
-</p>
-
----
-
 ## ⚡ Quote
 
-> "Build things that matter. Keep them simple, efficient, and real."
+> "Talk is cheap. Show me the code."
 
 ---
