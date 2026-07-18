@@ -46,14 +46,11 @@
 
 ## 📌 Projects
 
-- 🔹 [My Portfolio Website](https://github.com/amrit-11022007/Portfolio)  
-  *My own portfolio website showcasing the skills I learned and acheived in these years.*
+| Project                                                                              | Description                                                                                        | Tech Used                    |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 🔹 [My Portfolio Website](https://github.com/amrit-11022007/Portfolio)               | My own portfolio website showcasing the skills I have learned and achieved over the years.         | ReactJs · Typescript · TailwindCSS       |
+| 🔹 [Ecommerce website](https://github.com/amrit-11022007/Ecommerce) | A full-scale ecommerce platform.         | NextJs · NextAuth · MySQL · Redis                |
 
-- 🔹 [The Forgotten Crypt](https://github.com/amrit-11022007/Game-The-Forgotten-Crypt)  
-  *A text-based adventure game using Python, focusing on OOP, NPC design, and logic building.*
-
-- 🔹 [Finance Tracker](https://github.com/amrit-11022007/FinanceApp)  
-  *My flagship project: A full-stack personal finance tracker with clean UI and data visualization.*
 
 ---
 
