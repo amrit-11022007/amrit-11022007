@@ -41,9 +41,9 @@
 
 | Project | Description | Tech Used |
 | --- | --- | --- |
-| 🔹 [My Portfolio Website](https://github.com/amrit-11022007/Portfolio) | Portfolio website showcasing skills. | React · TypeScript · Tailwind CSS |
+| 🔹 [Rubix](https://github.com/amrit-11022007/Portfolio) | A simple Unix shell written in C++ with the help of OS APIs. | C++ · POSIX system calls |
 | 🔹 [Ecommerce Website](https://github.com/amrit-11022007/Ecommerce) | A full-scale ecommerce platform. | Next.js · NextAuth · MySQL · Redis |
-| 🔹 [Phishing Guard](https://github.com/amrit-11022007/phishing-guard) | Chrome extension that detects phishing emails, find AI generated text, starting with Gmail. Made with the help of <a href="https://github.com/kartik-tiwariR20">Kartik Tiwari</a>| TypeScript · Python|
+| 🔹 [Phishing Guard](https://github.com/amrit-11022007/phishing-guard) | Chrome extension that detects phishing emails, find AI generated text, starting with Gmail. Made with the help of <a href="https://github.com/kartik-tiwariR20">Kartik Tiwari</a> and <a href="https://github.com/yashguptacodes">Yash Gupta</a>| NextJs · TypeScript · Python · Java|
 
 ---
 
